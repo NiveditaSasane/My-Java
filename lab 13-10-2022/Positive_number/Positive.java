@@ -1,3 +1,9 @@
+/*
+to print sum of only positive numbers using do while loop.
+  name : nivedita sasane 
+  date : 13/10/2022.
+/*
+
 package Positive_number;
 
 import java.util.Scanner;
