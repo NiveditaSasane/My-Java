@@ -1,3 +1,10 @@
+/*
+Question : Descending order in array.
+Name : Nivedita sasane.
+date : 20/10/2022.
+
+
+
 package decending_array;
 
 //import java.util.Arrays;
