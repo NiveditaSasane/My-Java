@@ -1,0 +1,44 @@
+mysql> use Nivedita;
+Database changed
+mysql> select*from Song;
++--------+------------+------------------+
+| songId | singer     | songName         |
++--------+------------+------------------+
+|      1 | Sonu Nigam | Main Agar Kahoon |
++--------+------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> select*from Song;
++--------+-----------------+----------+
+| songId | singer          | songName |
++--------+-----------------+----------+
+|      2 | Sagar janardhan | Raya     |
++--------+-----------------+----------+
+1 row in set (0.00 sec)
+
+mysql> select*from Song;
++--------+-----------------+----------+
+| songId | singer          | songName |
++--------+-----------------+----------+
+|      1 | Sagar janardhan | Raya     |
++--------+-----------------+----------+
+1 row in set (0.00 sec)
+
+mysql> select*from Song;
++--------+-----------------+------------------+
+| songId | singer          | songName         |
++--------+-----------------+------------------+
+|      1 | Sagar janardhan | Raya             |
+|      2 | Sonu Nigam      | Main Agar Kahoon |
++--------+-----------------+------------------+
+2 rows in set (0.00 sec)
+
+mysql> select*from Song;
++--------+-----------------+------------------+
+| songId | singer          | songName         |
++--------+-----------------+------------------+
+|      1 | Sagar janardhan | Raya             |
+|      2 | Sonu Nigam      | Main Agar Kahoon |
+|      3 | Arjit Singh     | Darkhaast        |
++--------+-----------------+------------------+
+3 rows in set (0.00 sec)
